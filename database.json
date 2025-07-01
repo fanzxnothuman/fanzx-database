@@ -1,12 +1,12 @@
 [
   {
     "username": "fanzx",
-    "password": "thunder",
-    "active_until": "2025-08-01"
+    "password": "fanzx",
+    "active_until": "2026-01-01"
   },
   {
-    "username": "kratszzd",
-    "password": "axee",
-    "active_until": "2025-09-15"
+    "username": "admin",
+    "password": "fanzx2403",
+    "active_until": "2026-01-01"
   }
 ]
